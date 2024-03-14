@@ -5,7 +5,7 @@
 </div>
 
 
- Hi! I'm Back-End Developer and Bassist in band Seoul in Blue!
+ 
 
 
 
