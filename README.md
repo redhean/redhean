@@ -53,6 +53,13 @@
 </div>
 
 <div align = "center">
+<img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JetpackCompose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/.NetFramework-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 
 </div>
 
