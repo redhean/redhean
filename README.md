@@ -82,6 +82,8 @@
 
 </div>
 
+<br>
+
 <h1 align = "center">🎧 Etc 📸</h1>
 
 <div align = "center"> 
