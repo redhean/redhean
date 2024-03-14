@@ -10,7 +10,7 @@
 <h1 align="center">🛠️ Skills 💻</h1>
 
 <h1 align="center">🔗 Cowork 🤝</h1>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-E4405F?style=flat-square&logo=C++&logoColor=white"/>
 
 
 
