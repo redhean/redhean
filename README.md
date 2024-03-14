@@ -63,7 +63,19 @@
 
 </div>
 
+<p align="center">I can't wait to add new one!</p>
+
 <h1 align = "center">🔗 Cowork 🤝</h1>
+
+<div align = "center">
+  
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
+
+</div>
 
 
 
