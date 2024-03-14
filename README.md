@@ -7,6 +7,7 @@
 <p align="center">Also I'm Bassist of the band Seoul in Blue!</p>
 <p align="center">I'm studying Back-End and Infra Development!</p>
 
+<br>
 
 <h1 align = "center">🛠️ Skills 💻</h1>
 
@@ -65,6 +66,8 @@
 
 <p align="center">I can't wait to add new one!</p>
 
+<br>
+
 <h1 align = "center">🔗 Cowork 🤝</h1>
 
 <div align = "center">
@@ -76,10 +79,6 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 
 </div>
-
-
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2699E6&height=150&section=footer" />
 
