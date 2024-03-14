@@ -10,8 +10,7 @@
 <h1 align="center">🛠️ Skills 💻</h1>
 
 <h1 align="center">🔗 Cowork 🤝</h1>
-<img src="https://img.shields.io/badge/C++-E4405F?style=flat-square&logo=C++&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 
 
 
