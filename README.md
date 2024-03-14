@@ -2,8 +2,7 @@
 
 <h1 align="center">🧑🏻‍💻 Who Am I</h1>
 
-
-# 🛠️ Skills
+<h1 align="center">🛠️ Skills</h1>
  
 
 
