@@ -1,8 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2699E6&height=250&section=header&text=DaegyoJung&animation=twinkling&fontSize=75&fontColor=FFFFFF"/>
 
-<div style="text-align:center">
+<div align="center">
   ## Who Am I
 </div>
+
+
 
 
 
