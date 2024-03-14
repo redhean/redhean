@@ -87,7 +87,10 @@
 <h1 align = "center">🎧 Etc 📸</h1>
 
 <div align = "center"> 
+  
 <a href = "https://seoulinblue.notion.site/Seoul-in-Blue-260567a567b44a79b53b9c33fd427964"><img src="https://img.shields.io/badge/Seoul in Blue-0019F4?style=flat-square"/></a>
+
+<a href = "https://theliquor.net"><img src="https://img.shields.io/badge/The Liquor-000000?style=flat-square"/></a>
   
 </div>
 
