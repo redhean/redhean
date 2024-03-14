@@ -64,6 +64,8 @@
 
 </div>
 
+<br>
+
 <p align="center">I can't wait to add new one!</p>
 
 <br>
@@ -78,6 +80,13 @@
 
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 
+</div>
+
+<h1 align = "center">🎧 Etc 📸</h1>
+
+<div align = "center"> 
+<a href = "https://seoulinblue.notion.site/Seoul-in-Blue-260567a567b44a79b53b9c33fd427964"><img src="https://img.shields.io/badge/Seoul in Blue-0019F4?style=flat-square"/></a>
+  
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2699E6&height=150&section=footer" />
