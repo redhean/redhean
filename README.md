@@ -2,9 +2,8 @@
 
 <div align="center">
   ## Who Am I
-
-  Hi! I'm Back-End Developer and Bassist in band Seoul in Blue!
 </div>
+ Hi! I'm Back-End Developer and Bassist in band Seoul in Blue!
 
 
 
