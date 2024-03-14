@@ -2,8 +2,10 @@
 
 <h1 align="center">🧑🏻‍💻 Who Am I 🎸</h1>
 
-<h1 align="center">🛠️ Skills</h1>
- 
+<h1 align="center">🛠️ Skills 💻</h1>
+
+<h1 align="center">🔗 Cowork 🤝</h1>
+
 
 
 
